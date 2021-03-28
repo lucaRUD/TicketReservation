@@ -1,0 +1,3 @@
+C:/TicketReservation/cmake-build-debug/CMakeFiles/TicketReservation.dir
+C:/TicketReservation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TicketReservation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
